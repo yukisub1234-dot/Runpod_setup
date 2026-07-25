@@ -44,6 +44,14 @@
     {
       "source": "hf",
       "target": "Kijai/WanVideo_comfy",
+      "file": "umt5-xxl-enc-bf16.safetensors",
+      "type": "clip",
+      "rename_to": "umt5-xxl-enc-bf16.safetensors",
+      "sha256": "4fa971faf306cad919033d5bbe192e571dc08452f800cbf2ec3c73977c01b2cc"
+    },
+    {
+      "source": "hf",
+      "target": "Kijai/WanVideo_comfy",
       "file": "Wan2_1_VAE_bf16.safetensors",
       "type": "vae",
       "rename_to": "Wan2_1_VAE_bf16.safetensors",
